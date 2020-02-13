@@ -13,7 +13,7 @@ const Menu = () => {
 			</section>
 			<section className="menu-container">
 				<section className="menu-logo">
-					<img className="menu-logo-img" src={require('../assets/logo.img')} />
+					<img className="menu-logo-img" src={require('../assets/logo.img')} alt="logo" />
 				</section>
 				<section className="menu-title" />
 				<a className="menu-github" href="" target="_blank">
